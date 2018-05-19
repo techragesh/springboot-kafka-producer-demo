@@ -23,7 +23,9 @@ _**First a few concepts:**_
 ### Install Kafka
 
 **Step 1:** Download kafka_2.11-1.1.0 from apache kafka site
+
 **Step 2:** Extract the folder and go to the kafka location using terminal like cd c:/kafka_2.11-1.1.0
+
 **Step 3:** Start the ZooKeeper and Kafka Server by using the below command
 
 **_Start ZooKeeper_**
